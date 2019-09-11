@@ -2,8 +2,8 @@
 
 ## Preview
 
-![xmind](./GDD_Day1.png)
+![xmind](./GDD2019.png)
 
 # About
 
-You can use xmind to open the `.xmind` file.
+A summary of the Google Developer Days. You can use xmind app to open the `.xmind` file.
